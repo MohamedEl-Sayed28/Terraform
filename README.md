@@ -1,2 +1,2 @@
 # Terraform
-small project
+Small project
